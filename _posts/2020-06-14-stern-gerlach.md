@@ -11,7 +11,6 @@ orientations.
 
 ## Visualising the set up
 
-![Stern-Gerlach](/assets/Stern-Gerlach_experiment_svg.svg)
 <img src="/assets/Stern-Gerlach_experiment_svg.svg" alt="">
 Image Credit: Wikipedia (By Tatoute - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=34095239)
 
