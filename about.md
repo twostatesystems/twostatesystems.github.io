@@ -3,27 +3,19 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi, I am Madhukara Putty. I started this blog to understand a bit of quantum
+mechanics, quantum computing, and quantum information. 
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I write because I generally do not understand ANYTHING until I write. This
+makes my learning terribly slower, but I have to live with it. I have
+another [blog](https://puttym.github.io) where I write mostly about stuff
+related to computer programming.
 
-There are currently two themes built on Poole:
+This blog is also an experiment. I am curious to see if I continue to learn
+quantum mechanics and computation at least for a decade. I would be pleasantly
+surprised if I did so. 
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+You can say hi to me on [Twitter](https://twitter.com/msputty26).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+June 14, 2020 \\
+Bangalore
