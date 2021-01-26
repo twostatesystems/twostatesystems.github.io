@@ -7,7 +7,7 @@ permalink: stern-gerlach--II
 ---
 
 The magnetic moment $$\boldsymbol{\mu}$$ and the the intrinsic spin angular momentum
-$$\mathbf{S}$$ of a particle are related by the equation, $$\boldsymbol{\mu}$$
+$$\mathbf{S}$$ of a particle are related by the equation,
 
 \begin{equation}
 \boldsymbol{\mu} = \frac{gq}{2mc}\mathbf{S}
@@ -16,12 +16,11 @@ $$\mathbf{S}$$ of a particle are related by the equation, $$\boldsymbol{\mu}$$
 
 where $$q$$ is the unit charge, $$m$$ the mass of the particle, and $$c$$ the speed
 of light in vacuum. $$g$$ is a dimensionless constant whose value varies with 
-the particle. For example, $$g = 2.00$$ for electron,  $$g = 5.58$$ for a proton,
+the particle. For example, $$g = 2.00$$ for an electron,  $$g = 5.58$$ for a proton,
 and $$g = -3.82$$ for a neutron[^1]. 
 
-It is indeed tempting to presume that the intrinsic spin angular momentum is 
+It is tempting to presume that the intrinsic spin angular momentum is 
 just the orbital angular momentum of the particle spinning around its own axis.
-
 However, *spin*,  as in this context, is a type of angular momentum that has no 
 classical analogue. In fact, Eq. \eqref{eq:isam} can't be derived from classical
 arguments, and it is best to think of $$g$$ as a dimensionless factor inserted
@@ -75,13 +74,13 @@ F_{z} \approx \mu_{z} \frac{\partial B_z}{\partial z} =  \
 \end{equation}
 $$
 
-Obviously, $$F_{z}$$ has a continuous range of values resulting in a continuous
+Clearly, $$F_{z}$$ has a continuous range of values resulting in a continuous
 range of deflections. That is, the trail on the screen left by the deflected 
 silver atoms should be a straight line. The extreme points of this line
 correspond to $$\theta = 0^{\circ}$$ and $$\theta = 180^{\circ}$$.
 
-What Stern and Gerlach observed was completely different. Instead of a line,
-they saw that the traces were grouped into two clusters. 
+What Stern and Gerlach observed was completely different. On the screen were
+two clusters of traces, but not a continuous line.  
 This is a very important result because it tells that the $$z$$ component
 of the silver atom's magnetic dipole moment has *only* two values. Since  the
 magnetic dipole moment of a neutral silver atom is effectively due to an

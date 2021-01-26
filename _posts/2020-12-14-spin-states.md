@@ -3,7 +3,7 @@ layout: post
 title: A bit about spin states
 date: 2020-12-14
 category: quantum-mechanics
-permalink: bracket-notation
+permalink: spin-states-I
 ---
 The Stern-Gerlach experiment showed that the $$z$$ component of the intrinsic
 spin angular momentum ($$S_{z}$$) of an electron has only two possible values: 
